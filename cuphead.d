@@ -1,0 +1,15 @@
+.\cuphead.o: Cuphead.c
+.\cuphead.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\cuphead.o: ../inc/tm4c123gh6pm.h
+.\cuphead.o: ST7735.h
+.\cuphead.o: Print.h
+.\cuphead.o: Random.h
+.\cuphead.o: TExaS.h
+.\cuphead.o: ADC.h
+.\cuphead.o: Images.h
+.\cuphead.o: Sound.h
+.\cuphead.o: Timer1.h
+.\cuphead.o: Timer0.h
+.\cuphead.o: Timer2.h
+.\cuphead.o: Timer3.h
+.\cuphead.o: DAC.h
